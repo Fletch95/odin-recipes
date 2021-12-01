@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: cadetblue;
+    background-color: cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+img.example {
+    width: 450px;
+    height: auto;
+    border: red;
+    border-radius: 10px;
+    border-style: inset;
+}
